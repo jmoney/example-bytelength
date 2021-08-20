@@ -1,0 +1,15 @@
+{
+  "name": "bytelength",
+  "version": "0.0.1",
+  "description": "Simple ByteLenght example",
+  "main": "index.js",
+  "dependencies": {
+    "buffer": "^6.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "jmoney",
+  "license": "Apache-2.0"
+}
