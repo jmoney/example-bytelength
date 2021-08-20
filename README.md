@@ -5,7 +5,9 @@ Uses `Buffer` to calculate byte lenght of a string from the CLI.
 ## Build
 
 ```bash
-npm i
+nvm install 14.15.4
+nvm use
+npm install
 ```
 
 ## Run
